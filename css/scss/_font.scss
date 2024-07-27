@@ -1,0 +1,217 @@
+@font-face {
+    font-family: 'BT Beau Sans Extra';
+    src: url('../../fonts/BT-BeauSans-ExtraBoldItalic.eot');
+    src: url('../../fonts/BT-BeauSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-ExtraBoldItalic.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-BoldItalic.eot');
+    src: url('../../fonts/BT-BeauSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-BoldItalic.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-BoldItalic.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-ExtraBold.eot');
+    src: url('../../fonts/BT-BeauSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-ExtraBold.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-ExtraBold.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-Bold.eot');
+    src: url('../../fonts/BT-BeauSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-Bold.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-Bold.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-Italic.eot');
+    src: url('../../fonts/BT-BeauSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-Italic.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-Italic.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-LightItalic.eot');
+    src: url('../../fonts/BT-BeauSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-LightItalic.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-LightItalic.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-Regular.eot');
+    src: url('../../fonts/BT-BeauSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-Regular.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-Regular.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-MediumItalic.eot');
+    src: url('../../fonts/BT-BeauSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-MediumItalic.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-MediumItalic.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-Light.eot');
+    src: url('../../fonts/BT-BeauSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-Light.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-Light.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BT Beau Sans';
+    src: url('../../fonts/BT-BeauSans-Medium.eot');
+    src: url('../../fonts/BT-BeauSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/BT-BeauSans-Medium.woff2') format('woff2'),
+        url('../../fonts/BT-BeauSans-Medium.woff') format('woff'),
+        url('../../fonts/BT-BeauSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+//lora
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-BoldItalic.eot');
+    src: url('../../fonts/Lora-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-BoldItalic.woff2') format('woff2'),
+        url('../../fonts/Lora-BoldItalic.woff') format('woff'),
+        url('../../fonts/Lora-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-Bold.eot');
+    src: url('../../fonts/Lora-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-Bold.woff2') format('woff2'),
+        url('../../fonts/Lora-Bold.woff') format('woff'),
+        url('../../fonts/Lora-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-Italic.eot');
+    src: url('../../fonts/Lora-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-Italic.woff2') format('woff2'),
+        url('../../fonts/Lora-Italic.woff') format('woff'),
+        url('../../fonts/Lora-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-MediumItalic.eot');
+    src: url('../../fonts/Lora-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-MediumItalic.woff2') format('woff2'),
+        url('../../fonts/Lora-MediumItalic.woff') format('woff'),
+        url('../../fonts/Lora-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-Medium.eot');
+    src: url('../../fonts/Lora-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-Medium.woff2') format('woff2'),
+        url('../../fonts/Lora-Medium.woff') format('woff'),
+        url('../../fonts/Lora-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-SemiBold.eot');
+    src: url('../../fonts/Lora-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-SemiBold.woff2') format('woff2'),
+        url('../../fonts/Lora-SemiBold.woff') format('woff'),
+        url('../../fonts/Lora-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-Regular.eot');
+    src: url('../../fonts/Lora-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-Regular.woff2') format('woff2'),
+        url('../../fonts/Lora-Regular.woff') format('woff'),
+        url('../../fonts/Lora-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../../fonts/Lora-SemiBoldItalic.eot');
+    src: url('../../fonts/Lora-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Lora-SemiBoldItalic.woff2') format('woff2'),
+        url('../../fonts/Lora-SemiBoldItalic.woff') format('woff'),
+        url('../../fonts/Lora-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
