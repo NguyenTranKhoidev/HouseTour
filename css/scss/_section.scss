@@ -284,6 +284,8 @@
 
         .box-category-link-with-avatar {
           width: 390px;
+          position: relative;
+          overflow: hidden;
 
           @media (max-width: 991px) {
             width: 100%;
@@ -302,6 +304,14 @@
 
             @media (max-width: 991px) {
               padding-bottom: 62.5%;
+            }
+          }
+
+          .box-category-avatar {
+            transition: all 0.5s ease;
+
+            &:hover {
+              transform: scale(1.1);
             }
           }
         }
@@ -459,9 +469,20 @@
 
         .box-category-link-with-avatar {
           margin-bottom: 13px;
+          position: relative;
+          overflow: hidden;
 
           img {
             border-radius: 6px;
+            object-fit: cover;
+          }
+
+          .box-category-avatar {
+            transition: all 0.5s ease;
+
+            &:hover {
+              transform: scale(1.1);
+            }
           }
         }
 
@@ -575,9 +596,19 @@
 
         .box-category-link-with-avatar {
           border-bottom: 1px solid #000;
+          position: relative;
+          overflow: hidden;
 
           img {
             border-radius: 6px 6px 0px 0px;
+          }
+
+          .box-category-avatar {
+            transition: all 0.5s ease;
+
+            &:hover {
+              transform: scale(1.1);
+            }
           }
         }
 
